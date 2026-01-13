@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aghis Sulaiman 👋</h1>
+<h1 align="center">Hi, I'm Zefanya Prasetiyo 👋</h1>
 
 <p align="center">
   <i>kadang kidding tapi okelah </i>
@@ -7,10 +7,21 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 FulllStack Developer 
+- 💻 FulllStack Developer
+- 📈 Enthusiast in Investment & Financial Markets
+
 ---
 
-### 🔤 Languages
+### 💹 Finance & Investment Interests
+- 📊 Stock Market & Long-Term Investing
+- 💱 Crypto Asset & Trading
+- 🪙 Bitcoin & Blockchain Ecosystem
+- 📉 Technical & Fundamental Analysis (Beginner Level)
+- 💼 Portfolio & Risk Management Mindset
+
+---
+
+### 🔤 Programming Languages
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
