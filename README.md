@@ -1,53 +1,71 @@
 <h1 align="center">Hi, I'm Aghis Sulaiman 👋</h1>
-<p align="center">Fullstack Developer • Future Cybersecurity Expert • Finance Enthusiast</p>
+
+<p align="center">
+  <i>Fullstack Developer • Future Cybersecurity Expert • Finance & Investing Enthusiast</i>
+</p>
 
 ---
 
-### 🌟 About Me
-Developer yang lagi ngejar mimpi di bidang tech & finance. Sekarang lagi fokus bikin produk, ngembangin skill, dan nyusun masa depan biar gak cuma jadi penonton.
+### 👨‍💻 About Me
+- Fullstack Developer yang lagi ngejar jalur Cybersecurity.
+- Suka ngulik teknologi, bikin project, dan belajar hal baru.
+- Tertarik sama dunia finance, crypto, dan investasi jangka panjang.
 
 ---
 
-### 👨‍💻 Tech Stack
-**Languages:**  
-HTML • CSS • JavaScript • PHP • Python  
-
-**Frameworks & Libraries:**  
-React • Next.js • React Native • Flutter • Flask  
-TailwindCSS • shadcn/ui • Flowbite • HeroUI • DaisyUI
-
-**Backend & Databases:**  
-MySQL • MongoDB • PostgreSQL • Supabase
-
-**Tools:**  
-Git • GitHub • Postman • VSCode
+### 💹 Finance & Investing Interests
+- 📈 Stock & Long-Term Investing
+- 💱 Crypto Asset & Trading
+- 🪙 Bitcoin & Blockchain Ecosystem
+- 📉 Technical & Fundamental Analysis (Beginner)
+- 💼 Risk Management & Portfolio Strategy Mindset
 
 ---
 
-### 💹 Finance & Investing
-Selain dunia tech, aku juga ngulik dunia ekonomi & finansial:
-
-- 📈 Stock & Long-Term Investing  
-- 💱 Crypto & Trading  
-- 🪙 Bitcoin Ecosystem  
-- 📉 Technical Analysis (Beginner)  
-- 💼 Risk & Portfolio Mindset  
-
-karena coding doang gak cukup, masa depan perlu disiapin dari sekarang.
+### 🔤 Programming Languages
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🎯 Current Goals
-- Belajar & masuk dunia Cybersecurity
-- Bangun income dari tech + investasi
-- Bangun personal branding digital
+### 🖼️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge&logo=flowbite&logoColor=white)
+![HeroUI](https://img.shields.io/badge/Hero_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/Daisy_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📫 Reach Me
-Discord: `jepan`  
-Email: `zefanyaprasetiyo29@gmail.com`
+### 🗄️ Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-> "Semangat boleh naik turun, tapi tujuan jangan sampai pindah arah."
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: `zefanyaprasetiyo29@gmail.com`
+- 💬 Discord: `jepan`
+
+---
+
+> 💬 *"Coding boleh error, mimpi jangan sampai runtime error."* 💻⚡
