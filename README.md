@@ -63,8 +63,8 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: `zefanyaprasetiyo29@gmail.com`
-- 💬 Discord: `jepan`
+- 📧 Email: `By-Aghis_Studio@gmail.com`
+- 💬 Discord: `-`
 
 ---
 
